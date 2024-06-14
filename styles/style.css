@@ -419,7 +419,7 @@
 .footer {
     display: flex;
     justify-content: space-between;
-    padding: 180px 50px 88px 50px;
+    padding: 181px 50px 88px 50px;
     width: auto;
     min-height: 98px;
 }
@@ -450,7 +450,6 @@
 
 .footer__menu-link {
     text-decoration: none;
-    border-bottom: 1px solid #000000;
 
 }
 
