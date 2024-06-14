@@ -391,6 +391,7 @@
 }
 
 .description_block {
+    height: auto;
     padding-top: 100px;
     gap: 24px;
     display: flex;
@@ -401,7 +402,6 @@
     font-size: 20px;
     line-height: 24px;
     color: #000000;
-    max-height: 500px;
 }
 
 .about_text {
@@ -418,10 +418,10 @@
 /* Подвал сайта */
 .footer {
     display: flex;
+    height: auto;
     justify-content: space-between;
     padding: 181px 50px 88px 50px;
     width: auto;
-    min-height: 98px;
 }
 
 .footer__menu {
